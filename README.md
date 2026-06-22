@@ -28,7 +28,7 @@
 
 ## Conect us!
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dyego-franklim/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/LFPires1993) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dyego-franklim/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/dyegofranklim) 
 
 ![LFPires1993 GitHub stats](https://github-readme-stats.vercel.app/api?username=LFPires1993\&rank_icon=percentile&theme=radical) [![LFPires1993 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LFPires1993&layout=donut&hide=css,cmake&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
